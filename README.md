@@ -7,7 +7,7 @@ The following table lists all parts that are required for one HAT.
 | Qty | Part | Link |
 | --- | ---- | ---- | 
 | 1 | Edge-to-Cloud-File-Uploader-PCB-v1.0 PCB | [see PCB](https://github.com/5G-PreCiSe/edge-to-cloud-file-uploader-hat/blob/main/pcb/Edge-To-Cloud-Uploader-PCB_3_2024-09-17.json) |
-| 1 | Raspberry Pi Fan 5V 30x30 mm with screws | [Reichelt] (https://www.reichelt.com/fr/de/shop/produkt/raspberry_pi_-_luefter_30x30x7_mm_mit_dupont_steckverbinder_und-262538?nbc=1&) | 
+| 1 | Raspberry Pi Fan 5V 30x30 mm with screws | [Reichelt](https://www.reichelt.com/fr/de/shop/produkt/raspberry_pi_-_luefter_30x30x7_mm_mit_dupont_steckverbinder_und-262538?nbc=1&) | 
 | 1 | 0,96" OLED SSD1306 Display | [AZ-Delivery](https://www.az-delivery.de/products/0-96zolldisplay) |
 | 1 | RGB LED 5 mm Standard T-1 3/4 common cathode | [Reichelt](https://www.reichelt.com/fr/de/shop/produkt/rgb-led_5_mm_bedrahtet_4-pin_rt_gn_bl_8000_mcd_25_-156358) |
 | 4 | Tactile Switch 6x6 mm type 9308| [Reichelt](https://www.reichelt.com/fr/de/shop/produkt/kurzhubtaster_betaetigungsknopf_quadratisch-44532) |
