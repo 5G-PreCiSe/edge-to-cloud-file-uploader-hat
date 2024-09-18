@@ -1,5 +1,5 @@
 # Edge to Cloud File Uploader HAT
-Hardware documentation for a Raspberry Pi HAT for the 5G PreCiSe Edge-to-Cloud File Uploader
+Hardware documentation for a Raspberry Pi HAT that is compatible with the [5G PreCiSe Edge-to-Cloud File Uploader](https://github.com/5G-PreCiSe/edge-to-cloud-file-uploader)
 ![Assembled PCB](https://github.com/5G-PreCiSe/edge-to-cloud-file-uploader-hat/blob/main/images/Assembled_Edge-to-Cloud-File-Uploader.JPEG)
 
 ## Parts List:
