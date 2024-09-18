@@ -1,7 +1,9 @@
 # Edge to Cloud File Uploader HAT
 Hardware documentation for a Raspberry Pi HAT that is compatible with the [5G PreCiSe Edge-to-Cloud File Uploader](https://github.com/5G-PreCiSe/edge-to-cloud-file-uploader)
 ![Assembled PCB](https://github.com/5G-PreCiSe/edge-to-cloud-file-uploader-hat/blob/main/images/Assembled_Edge-to-Cloud-File-Uploader.JPEG)
-
+## Features:
+The Edge-to-Cloud File Uploader HAT offers some basic functionality and enables a local operator to restart and shut down the device without having access to the MQTT API.
+Four buttons and a 0.96" OLED display allow the operator to navigate through several menus and view configuration parameters. Moreover, the display shows the progress of a running upload process. A 30x30 mm fan cools the Raspberry Pi down.
 ## Parts List:
 The following table lists all parts that are required for one HAT.
 | Qty | Part | Link |
