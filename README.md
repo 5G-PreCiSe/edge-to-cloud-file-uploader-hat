@@ -16,3 +16,5 @@ The following table lists all parts that are required for one HAT.
 | 1 | 47 Ohm axial-lead resistors (type 0207) | [Reichelt](https://www.reichelt.com/fr/de/shop/produkt/widerstand_metallschicht_47_0_ohm_0207_0_6_w_1_-11822) |
 | 1 | 1 x 2-pin socket (male) 2.54 mm spacing / angled | [Reichelt](https://www.reichelt.com/fr/de/shop/produkt/stiftleiste_rm_2_54mm_gewinkelt_1-reihig_2-polig-330994) |
 | 1 | 2 x 20-pin socket (female) 2.54 mm spacing / 8.5 mm height | [Reichelt](https://www.reichelt.com/fr/de/shop/produkt/buchsenleisten_2_54_mm_2x20_gerade-199544?nbc=1&q=%2Ffr%2Fde%2Fshop%2Fbuchsenleisten-2-54-mm-2x20-gerade-mpe-094-2-040-p199544.html&trstct=pol_0) |
+| 4 | M2.5 spacer 12mm female - female | [Reichelt](https://www.reichelt.com/fr/en/shop/product/raspberry_pi_spacer_kit_m2_5-223625) |
+| 8 | M2.5 screw 8 mm | [Reichelt](https://www.reichelt.com/fr/en/shop/product/raspberry_pi_spacer_kit_m2_5-223625) |
